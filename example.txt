@@ -1,0 +1,5 @@
+pokemon list:
+charizard
+pikachu
+charizard weaknes is the water type 
+and pikachu weaknes is the stone type
